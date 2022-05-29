@@ -6,7 +6,7 @@
      "jest": true
   },
   "rules": {
-    "no-restricted-syntax": [
+    "no-restricted-syntax": [ f
       "error",
       "LabeledStatement",
       "WithStatement"
