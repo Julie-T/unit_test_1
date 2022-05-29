@@ -1,3 +1,4 @@
+;
 import sum from '../basic';
 
 test('should sum', () => {

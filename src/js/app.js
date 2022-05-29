@@ -1,3 +1,4 @@
+,
 // TODO: write your code here
 
 let healthIndicator = '';
