@@ -1,4 +1,3 @@
-;
 // import '../app';
 import indicator, { heroWizard, heroMaster, heroWitch } from '../app';
 

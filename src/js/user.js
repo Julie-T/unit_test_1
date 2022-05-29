@@ -1,4 +1,3 @@
-;
 import { httpGet } from './http';
 
 export function loadUser(id) {
